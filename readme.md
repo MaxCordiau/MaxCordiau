@@ -145,23 +145,7 @@
 </p>
 <br />
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br />
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: marceau.pp@proton.me<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/MaxCordiau/MaxCordiau/issues)
-
-</p>
-
-<br/>
-<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <!-- 
 ## Use To Code
 
