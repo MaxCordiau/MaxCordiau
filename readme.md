@@ -123,21 +123,21 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=MaxCordiau">
+<!-- <a href="https://komarev.com/ghpvc/?username=MaxCordiau">
   <img align="right" src="https://komarev.com/ghpvc/?username=MaxCordiau&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+</a> -->
 
 
-[![wakatime](https://wakatime.com/badge/user/018e5728-2c71-4438-bbfb-50980de6bf53.svg)](https://wakatime.com/@018e5728-2c71-4438-bbfb-50980de6bf53)
+<!-- [![wakatime](https://wakatime.com/badge/user/018e5728-2c71-4438-bbfb-50980de6bf53.svg)](https://wakatime.com/@018e5728-2c71-4438-bbfb-50980de6bf53)
 
 <!-- Intro  -->
-<h3 align="center">
+<!-- <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://MaxCordiau.com">Max Cordiau</a></b>
         </samp>
-</h3>
+</h3> -->
 
-
+<!-- 
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Max+Cordiau">「 Google Me 」</a>
@@ -146,15 +146,15 @@
     <br>
     <br>
   </samp>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://MaxCordiau.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MaxCordiau" />
  </a>
  <a href="https://www.linkedin.com/in/marceau-p-p-471328274/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MaxCordiau"/>
- </a>
+ </a> -->
  <!-- <a href="https://dev.to/MaxCordiau" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MaxCordiau" />
  </a> -->
@@ -167,11 +167,11 @@
  <!-- <a href="https://facebook.com/MaxCordiau" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="MaxCordiau"  />
   </a>  -->
-</p>
+<!-- </p>
 <br />
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br/>
+<br/> -->
 <!-- About Section -->
  <!-- # About me
  
