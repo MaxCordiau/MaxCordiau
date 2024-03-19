@@ -173,9 +173,9 @@
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br/>
 <!-- About Section -->
- # About me
+ <!-- # About me
  
-<p>
+<!-- <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
@@ -183,13 +183,13 @@
  📧 &emsp; Reach me anytime: marceau.pp@proton.me<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/MaxCordiau/MaxCordiau/issues)
 
-</p>
+</p> -->
 
-<br/>
+<!-- <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br/>
+<br/> -->
 
-## Use To Code
+<!-- ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -203,8 +203,9 @@
 
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br/>
-## Top Open Source -
+<br/> -->
+
+<!-- ## Top Open Source -
 
 [![Max Cordiau Readme](https://github-readme-stats.vercel.app/api/pin/?username=MaxCordiau&repo=MaxCordiau&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MaxCordiau/MaxCordiau)
 
@@ -232,7 +233,7 @@
     <a href="https://github.com/MaxCordiau"><img alt="Max Cordiau Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MaxCordiau&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/MaxCordiau"><img alt="Max Cordiau Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaxCordiau&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" align-items="left"/></a>
   <br/>
-</a>
+</a> -->
 
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
@@ -240,9 +241,13 @@
 
 ![MaxCordiau Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxCordiau&custom_title=Max%20Cordiau%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
  
-<a Github Stats href="https://github.com/MaxCordiau"><img alt="Max Cordiau Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MaxCordiau&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<br/>
+<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
+<br/>
+
+<!-- <a Github Stats href="https://github.com/MaxCordiau"><img alt="Max Cordiau Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MaxCordiau&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
   <a href="https://github.com/MaxCordiau"><img alt="Max Cordiau Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaxCordiau&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
+ -->
