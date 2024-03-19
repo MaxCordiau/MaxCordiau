@@ -76,8 +76,6 @@
 
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br/>
-<br/>
 
 ## Use To Code
 
@@ -207,6 +205,7 @@
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br/>
 ## Top Open Source -
+
 [![Max Cordiau Readme](https://github-readme-stats.vercel.app/api/pin/?username=MaxCordiau&repo=MaxCordiau&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MaxCordiau/MaxCordiau)
 
 <p align="left">
@@ -240,10 +239,10 @@
 <br/>
 
 ![MaxCordiau Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxCordiau&custom_title=Max%20Cordiau%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
- Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MaxCordiau&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+ 
+<a Github Stats href="https://github.com/MaxCordiau"><img alt="Max Cordiau Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MaxCordiau&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
   <a href="https://github.com/MaxCordiau"><img alt="Max Cordiau Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaxCordiau&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-
-![MaxCordiau Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxCordiau&custom_title=Max%20Cordiau%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
