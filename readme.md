@@ -14,11 +14,11 @@
 <br />
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br />
-
+<!--
 <a href="https://komarev.com/ghpvc/?username=MaxCordiau">
   <img align="right" src="https://komarev.com/ghpvc/?username=MaxCordiau&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
+-->
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018e5728-2c71-4438-bbfb-50980de6bf53.svg)](https://wakatime.com/@018e5728-2c71-4438-bbfb-50980de6bf53) -->
 
