@@ -47,6 +47,10 @@
  <a href="https://www.linkedin.com/in/marceau-p-p-471328274/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MaxCordiau"/>
  </a>
+  <a href="._loly_." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
  <!-- <a href="https://dev.to/MaxCordiau" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MaxCordiau" />
  </a> -->
