@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" alt="discord logo"/>
   </a>
   
-  <h3>Discord Communautaire CordiX</h3>
+  <h3 align="center">Discord Communautaire CordiX</h3>
   
 
  <!-- <a href="https://dev.to/MaxCordiau" target="_blank">
