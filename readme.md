@@ -68,6 +68,29 @@
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br />
 
+
+<p align="center">
+  <a href="https://github.com/MaxCordiau">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxCordiau&theme=radical&border=7F3FBF&background=0D1117" alt="Max Cordiau GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaxCordiau">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxCordiau&theme=radical" alt="Max Cordiau GitHub Contribution"/>
+  </a>
+</p>
+
+<br/>
+<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
+<br/>
+
+![MaxCordiau Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxCordiau&custom_title=Max%20Cordiau%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
+<br/>
+
 <!-- About Section -->
  # About me
  
@@ -156,27 +179,6 @@
   <a href="https://github.com/MaxCordiau?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
-<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/MaxCordiau">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxCordiau&theme=radical&border=7F3FBF&background=0D1117" alt="Max Cordiau GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MaxCordiau">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxCordiau&theme=radical" alt="Max Cordiau GitHub Contribution"/>
-  </a>
-</p>
-
-<br/>
-<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br/>
-
-![MaxCordiau Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxCordiau&custom_title=Max%20Cordiau%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
