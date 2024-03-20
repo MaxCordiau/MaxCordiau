@@ -49,7 +49,7 @@
  </a>
   
   <h3 align="center">Discord Communautaire CordiX</h3>
-  <a href="https://discord.gg/ZeddETnuwb" target="_blank style="align="center;">
+  <a href="https://discord.gg/ZeddETnuwb" target="_blank align="center">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" alt="discord logo"/>
   </a>
   
