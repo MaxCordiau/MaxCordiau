@@ -48,10 +48,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MaxCordiau"/>
  </a>
   <br>
-  <h2>Discord Communautaire CordiX</h2>
+  <h3>Discord Communautaire CordiX</h3>
   <br>
   <a href="https://discord.gg/ZeddETnuwb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img  align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
  <!-- <a href="https://dev.to/MaxCordiau" target="_blank">
