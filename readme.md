@@ -30,8 +30,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Max+Cordiau">「 Google Me 」</a>
-    <br>
     「 I am a web application developer from <b>France</b> 」
     <br>
     <br>
