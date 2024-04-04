@@ -11,9 +11,7 @@
 </p>
 
  -->
-<br />
-<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br />
+
 <!--
 <a href="https://komarev.com/ghpvc/?username=MaxCordiau">
   <img align="right" src="https://komarev.com/ghpvc/?username=MaxCordiau&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -66,9 +64,6 @@
 </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<br />
-<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br />
  <!-- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
