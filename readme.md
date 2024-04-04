@@ -167,7 +167,6 @@
   <hr width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  /> <img width="12" /> 
   <hr width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"  /> 
 </div>
 
 <br/>
