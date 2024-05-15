@@ -23,7 +23,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://MaxCordiau.com">Max Cordiau</a></b>
+                <b><a target="_blank" href="https://cordix-community.com">Max Cordiau</a></b>
         </samp>
 </h3>
 
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
- <a href="[https://MaxCordiau.com](https://cordix-community.com/)" target="blank">
+ <a href="https://cordix-community.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MaxCordiau" />
  </a>
  <a href="https://www.linkedin.com/in/marceau-p-p-471328274/" target="_blank">
