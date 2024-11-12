@@ -38,7 +38,7 @@
 
 <p align="center">
  <a href="https://marceau-portfolio.cordix-community.com/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MaxCordiau" />
+  <img src="https://img.shields.io/badge/portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MaxCordiau" />
  </a>
  <a href="https://www.linkedin.com/in/marceau-p-p-471328274/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MaxCordiau"/>
