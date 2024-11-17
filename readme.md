@@ -23,7 +23,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://cordix-community.com">Max Cordiau</a></b>
+                <b><a target="_blank" href="https://marceau-portfolio.cordix-community.com">Max Cordiau</a></b>
         </samp>
 </h3>
 
